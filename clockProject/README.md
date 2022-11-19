@@ -1,3 +1,3 @@
 ## Örnek Ekran Görüntüsü
 
-<img src="clockProject/jsClock.png">
+<img src="jsClock.png">
